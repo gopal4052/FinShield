@@ -383,13 +383,6 @@ Run notebooks in the following order:
 ## Future Enhancements
 
 - [ ] GraphFrames-based fraud ring detection
-- [ ] Merchant risk aggregation layer
-- [ ] Centralized DQ audit framework with `dq_audit_log`
-- [ ] Databricks Workflow orchestration
-- [ ] Late-arriving data handling
-- [ ] Snapshot comparison logic
-- [ ] Schema evolution handling
-- [ ] Partitioning and Z-ORDER optimization
 - [ ] Dashboard screenshots and sample outputs
 
 ---
